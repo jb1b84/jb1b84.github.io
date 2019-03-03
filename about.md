@@ -1,16 +1,43 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+<div class="jumbotron">
+    <h2 class="">Learn more about my experience in Engineering and Leadership</h2>
+    <p>I've done a lot of different neat shit</p>
+    <a href="#" class="btn btn-info btn-lg">Resume</a>
+    <a href="#" class="btn btn-danger btn-lg">Manager Readme</a>
+</div>
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+## New Knowledge
+**Engineering Manager**
+* Managed 10 direct reports, including front-line managers, team leads and individual contributors.
+* Some thing about product engineering
+* and _another_
 
-What else do you need?
+## Cratejoy
+**Engineering Manager**
+- I
+- fucking
+- survived
 
-### my history
+**Senior Software Engineer**
+- prototyped some shit
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+---
+_Before all of that, I started a couple of businesses:_
+### Ant Bytes Softworks
+- Stuff
+- Things
+
+### JB Outdoors (Brown Lures)
+- killed lots of fish
+- i'm basically fish hitler
+
+---
+
+#### Other important bits
+- law school
+- duct tape
+- blogging
