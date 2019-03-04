@@ -25,7 +25,7 @@ At Cratejoy I wore many hats, quickly progressing as an IC, naturally picking up
 During various phases I acted as defact Product Manager for teams and projects, especially
 in more experimental areas where MVP concepts and rapid iteration were key.
 
-My favorite project during this time was the recommendations system I built (and blogged [link]about). I carried it from initial inception to prototype and ultimately to production where it had a significant impact on revenue, and (more importantly) customer LTV.
+My favorite project during this time was the recommendations system I built (and [blogged about](/recommendations-blog/)). I carried it from initial inception to prototype and ultimately to production where it had a significant impact on revenue, and (more importantly) customer LTV.
 
 ---
 _Before all of that, I started a couple of businesses:_
